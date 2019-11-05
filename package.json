@@ -1,0 +1,23 @@
+{
+  "name": "trip-smarter",
+  "version": "1.0.0",
+  "description": "Travel Inspiration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3sixty-digital/trip-smarter.git"
+  },
+  "keywords": [
+    "Travel",
+    "Inspiration"
+  ],
+  "author": "3Sixty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3sixty-digital/trip-smarter/issues"
+  },
+  "homepage": "https://github.com/3sixty-digital/trip-smarter#readme"
+}
